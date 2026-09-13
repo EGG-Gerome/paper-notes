@@ -22,5 +22,6 @@
 | --- | --- | --- | --- |
 | 2026-09-09 | *Protein editing using a coordinated transposition reaction*（用协同转座反应做蛋白编辑）。[文件夹](2026-09-09_Hua2025_Science_蛋白转座/) | 已折叠蛋白上用正交 split intein 内部替换；必须预装。 | **没有。** |
 | 2026-09-10 | *Automated prototyping of genetic codes*（遗传密码的自动化原型化）。[文件夹](2026-09-10_Radford2026_Nature_密码子重构/) | 细胞裂解液里正交翻译；理论空出 14 个密码子。这篇实际测约 22 码、最多改派 3 个、掺 1 种 nsAA。 | **没有。** |
+| 2026-09-12 | *Zero-shot design of drug-binding proteins via neural iterative selection−expansion*（用神经迭代选择–扩展做药物结合蛋白的零样本设计）。[文件夹](2026-09-12_Fry2026_Nature_药物结合蛋白/) | NISE 闭环设计结合蛋白。exatecan 4/4（最紧校对后 1.2 nM），apixaban 5/6（最紧 80 pM）。结合 ≠ 递送 ≠ 酶。 | **没有。** |
 
 新读一篇时：建文件夹 → 放下原文 → 写心得和路线 → 在本表加一行。
